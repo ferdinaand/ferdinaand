@@ -36,6 +36,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="csharp" alt="csharp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
