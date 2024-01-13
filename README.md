@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -19,7 +19,6 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ferdinand-ekpombang-1a9804232" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/ferdinand-ekpombang-1a9804232?trk=profile-badge">FERDINAND EKPO-MBANG</a></div>
               
 </div>
 ---
