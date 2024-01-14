@@ -1,7 +1,6 @@
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
 
 <div id="badges" align = "center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/ferdinand-ekpo-mbang-1a9804232/)">
@@ -14,24 +13,18 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=ferdinaand&style=flat-square&color=blue" alt=""/>
-<h3>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
+<img src="https://komarev.com/ghpvc/?username=ferdinaand&style=flat-square&color=black" alt=""/>
+
               
 </div>
 ---
 
-### :woman_technologist: About Me :
-  I am a Full Stack Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Flutter Engineer and contributing to frontend and backend for building mobile applications.
 
-- :seedling: Exploring Artificial Intelligence.
-
-- :zap: during my spare time, I take UIs from dribble and replicate them into fully functional applications.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinand-ekpo-mbang-1a9804232/)
+  I am a Full Stack Mobile Developer  from Nigeria.
+- I’m working as a Flutter developer and contributing to frontend and backend for building mobile applications.
+- Exploring Artificial Intelligence & Cyber security.
+- during my spare time, I take UIs from dribble and replicate them into fully functional applications.
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinand-ekpo-mbang-1a9804232/)
 
 ---
 
