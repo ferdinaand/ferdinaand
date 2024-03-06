@@ -58,6 +58,6 @@
 
 
 Biltapay:
-<img src="https://github.com/ferdinaand/ferdinaand/assets/79477008/c4487ccc-64c9-4be8-addf-b2a346cdf307)https://github.com/ferdinaand/ferdinaand/assets/79477008/c4487ccc-64c9-4be8-addf-b2a346cdf307" alt="php" width="100" height="100"/>
+<img src="https://github.com/ferdinaand/ferdinaand/assets/79477008/c4487ccc-64c9-4be8-addf-b2a346cdf307)https://github.com/ferdinaand/ferdinaand/assets/79477008/c4487ccc-64c9-4be8-addf-b2a346cdf307" alt="php" width="350" height="800"/>
 
 
