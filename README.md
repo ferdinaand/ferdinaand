@@ -57,7 +57,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinaand&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Biltapay:
-<img src="https://github.com/ferdinaand/ferdinaand/assets/79477008/c4487ccc-64c9-4be8-addf-b2a346cdf307)https://github.com/ferdinaand/ferdinaand/assets/79477008/c4487ccc-64c9-4be8-addf-b2a346cdf307" alt="php" width="350" height="800"/>
 
 
