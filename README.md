@@ -65,6 +65,7 @@ https://github.com/user-attachments/assets/43933ea3-030e-4f93-bca9-786df305c5ac
 
 
 
+![simulator-screen-recording-iphone-15-pro-max-2024-11-14-at-151840_S7Qed2Jv (1)]()
 
 
 
@@ -108,12 +109,10 @@ https://github.com/user-attachments/assets/43933ea3-030e-4f93-bca9-786df305c5ac
 		</tr> 
 		<tr>
 			<th>My Fitness(personal project)</th>	
-			<th></th>	
-			<th></th>
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/user-attachments/assets/4817d241-fc92-470a-94a3-cad60a546763" alt="WeFit"></img>
+				<img src="https://github.com/user-attachments/assets/c4fc5055-3ac8-4a00-81bd-5f74eb47634c" alt="WeFit"></img>
 			</td>
 		</tr>
 		<tr>
