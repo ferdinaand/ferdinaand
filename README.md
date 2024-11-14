@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/43933ea3-030e-4f93-bca9-786df305c5ac
+
 
 
 
@@ -55,6 +57,72 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinaand&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Demo Apps built with flutter For Clients and personal projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+	<tbody width="100%">
+	<tr>
+			<th>Shoe App</th>	
+			<th>Payway App</th>	
+			<th>Rillfit(client project)</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/user-attachments/assets/27d742c7-6583-4233-9d25-ccb0115873f2" alt="Shoe App"></img>
+			</td>
+			<td>
+			<img src="https://github.com/user-attachments/assets/2b3a6a0b-4c96-469f-a7b9-a7709541c894" alt="Payway App"></img>
+			</td>
+			<td>
+			<img src="https://github.com/user-attachments/assets/5757f6e7-67cc-4d17-a2c0-16f344a56e60" alt="Rillfit"></img>
+			</td>
+		</tr>
+    <tr>
+			<td>
+				🔗 <a href="">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="">Tweet</a>
+			</td>
+		</tr> 
+		<tr>
+			<th>My Fitness(personal project)</th>	
+			<th></th>	
+			<th></th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/user-attachments/assets/4817d241-fc92-470a-94a3-cad60a546763" alt="WeFit"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="">Tweet</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 
