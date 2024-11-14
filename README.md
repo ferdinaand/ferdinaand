@@ -65,7 +65,10 @@ https://github.com/user-attachments/assets/43933ea3-030e-4f93-bca9-786df305c5ac
 
 
 
-![simulator-screen-recording-iphone-15-pro-max-2024-11-14-at-151840_S7Qed2Jv (1)]()
+
+
+
+
 
 
 
@@ -87,13 +90,13 @@ https://github.com/user-attachments/assets/43933ea3-030e-4f93-bca9-786df305c5ac
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/user-attachments/assets/27d742c7-6583-4233-9d25-ccb0115873f2" alt="Shoe App"></img>
+			<img src="https://github.com/user-attachments/assets/730b370a-ef1e-4f40-bd08-54aff5d6fe2c" alt="Shoe App"></img>
 			</td>
 			<td>
-			<img src="https://github.com/user-attachments/assets/2b3a6a0b-4c96-469f-a7b9-a7709541c894" alt="Payway App"></img>
+			<img src="https://github.com/user-attachments/assets/d50a8a18-f214-4e6e-9e93-558471611d73" alt="Payway App"></img>
 			</td>
 			<td>
-			<img src="https://github.com/user-attachments/assets/5757f6e7-67cc-4d17-a2c0-16f344a56e60" alt="Rillfit"></img>
+			<img src="https://github.com/user-attachments/assets/9f867be0-7bcf-4f19-8aad-d7ef163fe13e" alt="Rillfit"></img>
 			</td>
 		</tr>
     <tr>
