@@ -1,7 +1,4 @@
 
-https://github.com/user-attachments/assets/43933ea3-030e-4f93-bca9-786df305c5ac
-
-
 
 
 <div id="badges" align = "center">
@@ -60,25 +57,6 @@ https://github.com/user-attachments/assets/43933ea3-030e-4f93-bca9-786df305c5ac
 
 
 ## Demo Apps built with flutter For Clients and personal projects
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <table>
