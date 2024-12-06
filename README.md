@@ -56,7 +56,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinaand&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Demo Apps built with flutter For Clients and personal projects
+## Apps built with flutter For Clients and personal projects
 
 
 <table>
