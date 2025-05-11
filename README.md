@@ -85,7 +85,7 @@
 				🔗 <a href="">Tweet</a>
 			</td>
 			<td>
-				🔗 <a href="">Tweet</a>
+				🔗 <a href="https://play.google.com/store/apps/details?id=com.riilfit.app&pcampaignid=web_share">Playstore</a>
 			</td>
 		</tr> 
 		<tr>
